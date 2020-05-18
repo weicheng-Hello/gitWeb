@@ -4,3 +4,4 @@ let obj = {
   age:"22"
 }
 let a = 111111
+let b = 444
